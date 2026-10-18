@@ -1,0 +1,8 @@
+{
+  "name": "first-plugin",
+  "version": "0.1.0",
+  "description": "Support kit for pre-PR checks: identify and summarize branch changes, and review code quality.",
+  "author": {
+    "name": "ergm569"
+  }
+}
